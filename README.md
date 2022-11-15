@@ -3,6 +3,8 @@ This article explains how to add multiple Y-axes in the .NET MAUI charts.
 <br><br>
 Consider the use case of plotting the graph for two different scenarios with varying unit rates on the same field as shown in the following image. It has been achieved by using the XAxes and YAxes of the SfCartesianChart.
 <br>
+<img width="708" alt="SampleUseCase" src="https://user-images.githubusercontent.com/105496706/201910264-03b79ba5-b8e7-402a-af6a-b3314256901a.PNG">
+<br>
 **Step 1:** Populate the chart with multiple axes. Add multiple axes to the SfCartesianChart.YAxes property. Then, assign the axis Name property for each axis as follows:
 <br>
 **[XAML]**
