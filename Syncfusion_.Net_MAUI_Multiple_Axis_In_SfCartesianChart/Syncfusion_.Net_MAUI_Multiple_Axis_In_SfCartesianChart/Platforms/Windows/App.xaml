@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="Syncfusion_.Net_MAUI_Multiple_Axis_In_SfCartesianChart.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:Syncfusion_.Net_MAUI_Multiple_Axis_In_SfCartesianChart.WinUI">
+
+</maui:MauiWinUIApplication>
