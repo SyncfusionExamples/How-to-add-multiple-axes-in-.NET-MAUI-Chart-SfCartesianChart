@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace Syncfusion_.Net_MAUI_Multiple_Axis_In_SfCartesianChart;
+namespace MultipleAxesCartesianChart;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

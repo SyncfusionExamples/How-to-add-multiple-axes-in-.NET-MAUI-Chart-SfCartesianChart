@@ -2,7 +2,7 @@ using System;
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace Syncfusion_.Net_MAUI_Multiple_Axis_In_SfCartesianChart;
+namespace MultipleAxesCartesianChart;
 
 class Program : MauiApplication
 {

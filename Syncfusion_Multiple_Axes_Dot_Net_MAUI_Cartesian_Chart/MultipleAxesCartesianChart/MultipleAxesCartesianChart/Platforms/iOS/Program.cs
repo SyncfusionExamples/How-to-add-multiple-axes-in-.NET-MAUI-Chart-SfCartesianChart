@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace Syncfusion_.Net_MAUI_Multiple_Axis_In_SfCartesianChart;
+namespace MultipleAxesCartesianChart;
 
 public class Program
 {

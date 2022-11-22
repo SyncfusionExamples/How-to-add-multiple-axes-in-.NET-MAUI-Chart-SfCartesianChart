@@ -1,4 +1,4 @@
-﻿namespace Syncfusion_.Net_MAUI_Multiple_Axis_In_SfCartesianChart;
+﻿namespace MultipleAxesCartesianChart;
 
 public partial class App : Application
 {
