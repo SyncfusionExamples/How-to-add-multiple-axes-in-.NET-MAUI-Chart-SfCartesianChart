@@ -5,7 +5,7 @@
              xmlns:viewmodel="clr-namespace:MultipleAxesCartesianChart"
              xmlns:chart="clr-namespace:Syncfusion.Maui.Charts;assembly=Syncfusion.Maui.Charts">
 
-    <chart:SfCartesianChart EnableSideBySideSeriesPlacement="False">
+    <chart:SfCartesianChart EnableSideBySideSeriesPlacement="False" Margin="0,15,0,0">
 
         <chart:SfCartesianChart.BindingContext>
             <viewmodel:ViewModel/>

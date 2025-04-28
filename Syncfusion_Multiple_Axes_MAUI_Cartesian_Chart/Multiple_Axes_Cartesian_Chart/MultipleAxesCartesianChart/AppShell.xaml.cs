@@ -1,9 +1,10 @@
-﻿namespace MultipleAxesCartesianChart;
-
-public partial class AppShell : Shell
+﻿namespace MultipleAxesCartesianChart
 {
-	public AppShell()
-	{
-		InitializeComponent();
-	}
+    public partial class AppShell : Shell
+    {
+        public AppShell()
+        {
+            InitializeComponent();
+        }
+    }
 }
