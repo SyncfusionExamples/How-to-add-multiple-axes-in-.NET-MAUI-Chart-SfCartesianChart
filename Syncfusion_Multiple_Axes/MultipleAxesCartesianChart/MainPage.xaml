@@ -23,6 +23,9 @@
                 <chart:DateTimeAxis.LabelStyle>
                     <chart:ChartAxisLabelStyle  LabelFormat="MMM" TextColor="#6d7372" FontSize="12"/>
                 </chart:DateTimeAxis.LabelStyle>
+                <chart:DateTimeAxis.Title>
+                    <chart:ChartAxisTitle Text="Months"/>
+                </chart:DateTimeAxis.Title>
             </chart:DateTimeAxis>
         </chart:SfCartesianChart.XAxes>
 
@@ -31,6 +34,9 @@
                 <chart:NumericalAxis.LabelStyle>
                     <chart:ChartAxisLabelStyle TextColor="#0091E6" FontSize="12" FontAttributes="Bold" LabelFormat="$0.#"/>
                 </chart:NumericalAxis.LabelStyle>
+                <chart:NumericalAxis.Title>
+                    <chart:ChartAxisTitle Text="Amount" FontSize="12" FontAttributes="Bold" TextColor="#0091E6"/>
+                </chart:NumericalAxis.Title>
             </chart:NumericalAxis>
 
             <chart:NumericalAxis CrossesAt="{Static x:Double.MaxValue}" ShowMajorGridLines="False" RenderNextToCrossingValue="True"
@@ -38,6 +44,9 @@
                 <chart:NumericalAxis.LabelStyle>
                     <chart:ChartAxisLabelStyle TextColor="#ff1493" FontSize="12" FontAttributes="Bold" LabelFormat="0.#'%'"/>
                 </chart:NumericalAxis.LabelStyle>
+                <chart:NumericalAxis.Title>
+                    <chart:ChartAxisTitle Text="Percentage" TextColor="#ff1493" FontSize="12" FontAttributes="Bold" />
+                </chart:NumericalAxis.Title>
             </chart:NumericalAxis>
 
         </chart:SfCartesianChart.YAxes>
